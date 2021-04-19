@@ -5,6 +5,9 @@
   "main": "eren.js",
   "author": "Micz",
   "license": "ISC",
+  "scripts": {
+     "start": "node eren.js"
+  },
   "dependencies": {
     "cpu-stat": "^2.0.1",
     "dateformat": "^4.5.1",
